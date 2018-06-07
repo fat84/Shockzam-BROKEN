@@ -5,7 +5,7 @@ _Shockzam_ is a little software that takes a sample of music from your PC (What 
 
 It basically does exactly the same thing as the official Shazam app, but on your windows 7 computer instead of your smartphone.
 
-![http://i.imgur.com/AGsiyqN.png](http://i.imgur.com/AGsiyqN.png)
+![https://i.imgur.com/jdqOGBg.png](https://i.imgur.com/jdqOGBg.png)
 
 
 ## How it works ##
