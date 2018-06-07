@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Net;
 
-namespace shazam
+namespace Shockzam
 {
     public class OrbitPostRequestBuilder : IRequestBuilder
     {
