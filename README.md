@@ -15,7 +15,7 @@ This software listens to a 5-seconds sample from your PC. Then it sends it to Sh
 _Shockzam_ is a portable software, so you don't have to install anything.
 
 ## Download ##
-[Click Here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download the compiled software.
+[Click Here](https://github.com/weespin/Shockzam/releases) to download the compiled software.
 
 Instructions:
 
