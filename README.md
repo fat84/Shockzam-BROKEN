@@ -3,7 +3,7 @@
 It works really well, but it doesn't have a version for Windows computers.
 _Shockzam_ is a little software that takes a sample of music from your PC (What you hear), and recongnize it by sending it to Shazam's servers.
 
-It basically does exactly the same thing as the official Shazam app, but on your windows 7 computer instead of your smartphone.
+It basically does exactly the same thing as the official Shazam app, but on your windows computer instead of your smartphone.
 
 ![https://i.imgur.com/jdqOGBg.png](https://i.imgur.com/jdqOGBg.png)
 
